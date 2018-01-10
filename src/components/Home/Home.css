@@ -1,0 +1,9 @@
+.home-landing {
+  height: 90vh;
+  width: 100%;
+  background-image: url("./ATW-Home.jpeg");
+  background-position: stretch;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  opacity: 1;
+}
